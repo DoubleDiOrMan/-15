@@ -1,0 +1,20 @@
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\329194-11\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\ТРиЗБД\Лаба 17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
